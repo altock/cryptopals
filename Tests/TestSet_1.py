@@ -1,8 +1,7 @@
 __author__ = 'altock'
 import unittest
 
-from Set1 import hex_to_64
-import xor
+from Set1 import hex_to_64, xor
 
 
 class TestSetOne(unittest.TestCase):
